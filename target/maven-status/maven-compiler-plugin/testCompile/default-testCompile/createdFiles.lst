@@ -1,0 +1,11 @@
+me\kafeitu\demo\activiti\dao\LeaveDaoTest.class
+me\kafeitu\demo\activiti\process\ProcessTestDispatch.class
+me\kafeitu\demo\activiti\service\oa\leave\LeaveWorkflowServiceTest.class
+me\kafeitu\demo\activiti\dao\JpaMappingTest.class
+me\kafeitu\demo\activiti\engine\ProcessEngineTest.class
+me\kafeitu\demo\activiti\service\oa\leave\LeaveManagerTest.class
+me\kafeitu\demo\activiti\service\oa\leave\LeaveWebserviceInWorkflowTest.class
+me\kafeitu\demo\activiti\web\user\UserControllerTest.class
+me\kafeitu\demo\activiti\dao\InitDataTest.class
+me\kafeitu\demo\activiti\service\AbstractTest.class
+me\kafeitu\demo\activiti\web\oa\LeaveControllerTest.class
